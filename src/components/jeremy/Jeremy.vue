@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <p>This is Jeremy's Section</p>
+    <p>Jeremy is the best. Jeremy is a hero. Jeremy is number one. Jeremy has no ego.</p>
   </div>
 </template>
 
