@@ -2,7 +2,7 @@
   <nav>
     <ul>
       <li><router-link v-bind:to="'/'" exact>Home</router-link></li>
-      <li><router-link v-bind:to="'/geoff'" exact>Geoff's Screen</router-link></li>
+      <li><router-link v-bind:to="'/holly'" exact>Holly's Screen</router-link></li>
     </ul>
   </nav> 
 </template>
