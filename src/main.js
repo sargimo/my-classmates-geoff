@@ -10,13 +10,12 @@ Vue.use(VueRouter);
 const routes = [
   {path: "/", component: Home},
   {path: "/holly", component: Holly}
-];
+]
 
 const router = new VueRouter({
   routes,
   mode: "history"
 });
-
 
 new Vue({
   render: h => h(App),
