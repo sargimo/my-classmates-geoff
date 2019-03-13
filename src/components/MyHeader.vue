@@ -3,6 +3,8 @@
     <ul>
       <li><router-link v-bind:to="'/'" exact>Home</router-link></li>
       <li><router-link v-bind:to="'/holly'" exact>Holly's Screen</router-link></li>
+        <li><router-link v-bind:to="'/'">Jeremy</router-link></li>
+
     </ul>
   </nav> 
 </template>
